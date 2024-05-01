@@ -29,14 +29,14 @@ Submit your final analysis.
 
 resources:
 
-https://matplotlib.org/stable/gallery/statistics/boxplot.html 
-- This helped me to change the outlier color to red in my Quartiles section
-
 https://chat.openai.com/
 
 https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook
 
 https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+
+https://matplotlib.org/stable/gallery/statistics/boxplot.html 
+- This helped me to change the outlier color to red in my Quartiles section
 
 
 https://stackoverflow.com/questions/45670487/numpy-cov-exception-float-object-has-no-attribute-shape

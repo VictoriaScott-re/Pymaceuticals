@@ -36,6 +36,8 @@ https://chat.openai.com/
 
 https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook
 
+https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+
 
 https://stackoverflow.com/questions/45670487/numpy-cov-exception-float-object-has-no-attribute-shape
 - I found this source that really helped me understand the error message I was getting. It explained that the error occurs when you're using NumPy arrays with a dtype of object. This dtype can cause issues with certain NumPy functions, as the note in the source mentions.
